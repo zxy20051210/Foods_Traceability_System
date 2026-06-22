@@ -32,9 +32,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3FTu99HWuh5O6N6LFAiyNh0go4E" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,7 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "HZP",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/project/Foods_Traceability_System",
     "node.js.detected.package.eslint": "true",
@@ -73,6 +73,7 @@
       <updated>1755255042970</updated>
       <workItem from="1755255044696" duration="55000" />
       <workItem from="1782111227301" duration="306000" />
+      <workItem from="1782111875015" duration="10000" />
     </task>
     <servers />
   </component>
