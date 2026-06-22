@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc02f4dc-c926-408f-8c2a-9be43a82afab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="dc02f4dc-c926-408f-8c2a-9be43a82afab" name="Changes" comment="测试zhang" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,8 +68,25 @@
       <workItem from="1755255044696" duration="55000" />
       <workItem from="1782111227301" duration="306000" />
       <workItem from="1782111875015" duration="394000" />
-      <workItem from="1782116007931" duration="27000" />
+      <workItem from="1782116007931" duration="671000" />
     </task>
+    <task id="LOCAL-00001" summary="测试zhang">
+      <option name="closed" value="true" />
+      <created>1782116048770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782116048770</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试zhang">
+      <option name="closed" value="true" />
+      <created>1782116550033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782116550033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试zhang" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试zhang" />
   </component>
 </project>
