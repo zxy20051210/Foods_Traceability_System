@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dc02f4dc-c926-408f-8c2a-9be43a82afab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +32,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3FTu99HWuh5O6N6LFAiyNh0go4E" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,9 +43,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "HZP",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/project/Foods_Traceability_System",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
@@ -65,7 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1755255042970</updated>
       <workItem from="1755255044696" duration="55000" />
-      <workItem from="1782111227301" duration="40000" />
+      <workItem from="1782111227301" duration="306000" />
+      <workItem from="1782111875015" duration="10000" />
     </task>
     <servers />
   </component>
